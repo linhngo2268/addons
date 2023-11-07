@@ -5,8 +5,8 @@
         "home_banner": "ca-app-pub-2077548239432877/3703527046",
         "home_interstitial": "ca-app-pub-2077548239432877/5623113378",
         "home_open": "ca-app-pub-2077548239432877/1077363700",
-        "home_inapp": "off",
-        "home_close": "off"
+        "home_inapp": "on",
+        "home_close": "on"
     },
     "iap":
     {
