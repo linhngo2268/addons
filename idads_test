@@ -6,7 +6,7 @@
         "home_interstitial": "ca-app-pub-3940256099942544/1033173712",
         "home_open": "ca-app-pub-3940256099942544/3419835294",
         "home_inapp": "on",
-        "home_close": "on"
+        "home_close": "off"
     },
     "iap":
     {
