@@ -2,10 +2,10 @@
     "ads":
     {
         "enabled": true,
-        "home_banner": "ca-app-pub-2077548239432877/3703527046",
-        "home_interstitial": "ca-app-pub-2077548239432877/5623113378",
-        "home_open": "ca-app-pub-2077548239432877/1077363700",
-        "home_native": "ca-app-pub-2077548239432877/7614563885",
+        "home_banner": "ca-app-pub-2077548239432877/37037046",
+        "home_interstitial": "ca-app-pub-2077548239432877/56233378",
+        "home_open": "ca-app-pub-2077548239432877/107763700",
+        "home_native": "ca-app-pub-2077548239432877/76143885",
         "home_inapp": "on",
         "home_close": "on"
     },
